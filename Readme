@@ -1,1 +1,6 @@
+It includes the supplementary file for 
 
+[1] Haixia Peng, Zihao Zhang, Yiliang Liu, Zhou Su, Tom H. Luan, and Nan Cheng, Semantic Communication in Non-Terrestrial Networks: A Future-Ready Paradigm, IEEE Network, 2024.
+
+System model.pdf provides the detail of the system model of the study case in Section IV of [1].
+code provides part of simluation codes of the study case. After the second round revision, we will open source all the code.
